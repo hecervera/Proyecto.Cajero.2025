@@ -43,4 +43,4 @@ Cada cliente posee un saldo inicial y una contraseña asociada (guardada, pero *
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/hecervera/Proyecto.Python.2025.git
+   git clone https://https://github.com/hecervera/Proyecto.Cajero.2025
